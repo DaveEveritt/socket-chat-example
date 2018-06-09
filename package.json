@@ -4,5 +4,7 @@
   "description": "Example socket.io app",
   "license": "UNLICENSED",
   "repository": "github:DaveEveritt/socket-chat-example.git",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }

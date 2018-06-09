@@ -2,6 +2,8 @@
 
 Taken from [Get Started: Chat application](https://socket.io/get-started/chat/) on the socket.io website.
 
+The original tutorial used JQuery, this is rewritten to use pure JavaScript.
+
 ## Notes
 
 Socket.IO enables the sending and receiving any events required, with any data: objects that can be encoded as JSON as well as binary data.

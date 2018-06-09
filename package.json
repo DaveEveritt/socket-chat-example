@@ -1,0 +1,10 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "Example socket.io app",
+  "license": "UNLICENSED",
+  "repository": "github:user/repo",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

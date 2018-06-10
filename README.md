@@ -1,8 +1,10 @@
 # A socket.io chat example
 
-Taken from [Get Started: Chat application](https://socket.io/get-started/chat/) on the socket.io website ([original code](https://github.com/socketio/chat-example.git)).
+Taken from [Get Started: Chat application](https://socket.io/get-started/chat/) on the socket.io website.
 
 The original tutorial used JQuery, this is rewritten to use pure JavaScript.
+
+Also, set up a public folder to serve the static CSS and JS files, cleaned up znd commented CSS.
 
 ## Notes
 
@@ -18,7 +20,7 @@ These are from the original tutorial
 - [ ] Add “{user} is typing” functionality
 - [ ] Show who’s online
 - [ ] Add private messaging
-- [ ] Share your improvements!
+- [ ] Share your improvements: [original code repo](https://github.com/socketio/chat-example.git)
 
 ## Resources
 

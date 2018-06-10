@@ -1,12 +1,24 @@
 # A socket.io chat example
 
-Taken from [Get Started: Chat application](https://socket.io/get-started/chat/) on the socket.io website.
+Taken from [Get Started: Chat application](https://socket.io/get-started/chat/) on the socket.io website ([original code](https://github.com/socketio/chat-example.git)).
 
 The original tutorial used JQuery, this is rewritten to use pure JavaScript.
 
 ## Notes
 
 Socket.IO enables the sending and receiving any events required, with any data: objects that can be encoded as JSON as well as binary data.
+
+## TO DO
+
+These are from the original tutorial
+
+- [ ] Broadcast a message to connected users when someone connects or disconnects
+- [ ] Add support for nicknames
+- [ ] Don’t send the sender's message to them, just append the message directly on enter
+- [ ] Add “{user} is typing” functionality
+- [ ] Show who’s online
+- [ ] Add private messaging
+- [ ] Share your improvements!
 
 ## Resources
 

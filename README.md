@@ -1,10 +1,8 @@
 # A socket.io chat example
 
-Taken from [Get Started: Chat application](https://socket.io/get-started/chat/) on the socket.io website.
+Taken from [Get Started: Chat application](https://socket.io/get-started/chat/) on the socket.io website which uses JQuery. This is rewritten in pure JavaScript.
 
-The original tutorial used JQuery, this is rewritten to use pure JavaScript.
-
-Also, set up a public folder to serve the static CSS and JS files, cleaned up znd commented CSS.
+Also, separated the styles, markup and logic by serving static files from a public folder, cleaned up and commented the CSS.
 
 ## Notes
 
